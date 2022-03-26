@@ -1,0 +1,1001 @@
+id,year,number,boolean,company,city
+1,2010,1,false,Feedbug,Goroka
+2,1988,1,false,Riffwire,Haugesund
+3,2002,0,false,Linklinks,Gechuan
+4,2010,1,false,Vitz,Milotice
+5,2011,1,true,Vinte,Levallois-Perret
+6,2003,1,false,Quaxo,Vạn Giã
+7,2010,0,true,Buzzshare,Tours
+8,2002,1,false,Jabberstorm,Hongguang
+9,2008,0,true,Skidoo,Zhaiwu
+10,2002,1,false,Thoughtbeat,Az Ziyārah
+11,2003,1,false,Devify,Căuşeni
+12,2008,0,false,Realcube,Dabaozi
+13,1990,1,true,Jabbersphere,Jincheng
+14,1987,0,true,Devbug,Partizan
+15,2008,0,true,Vinte,Changnyeong
+16,1997,,false,Trilith,Mādabā
+17,2005,0,false,Voonix,Tucuruí
+18,1995,0,false,Browsedrive,Longshan
+19,2003,1,false,Zoozzy,Ambo Village
+20,2001,1,false,Browsezoom,Trakai
+21,2005,1,true,Browsetype,Nenagh
+22,2012,1,false,Photobug,Edson
+23,1972,0,false,Agimba,Almafuerte
+24,2005,0,false,Agivu,Saint-Denis
+25,2000,1,true,Mymm,Wielka Nieszawka
+26,2003,0,true,Dynava,Rungis
+27,2001,0,false,Meeveo,Hema
+28,2005,1,false,Shufflester,Quinta dos Frades
+29,2012,1,false,Einti,Porto Martins
+30,2010,0,false,Livepath,Ipueiras
+31,2008,0,true,Twimm,Kolochava
+32,1995,1,false,Centimia,Koson Shahri
+33,2001,1,true,Thoughtbridge,Rivière-du-Loup
+34,1995,0,false,Roombo,San Casimiro
+35,2003,,true,Zoomcast,Osnabrück
+36,1999,0,false,Zoomlounge,Qīr Moāv
+37,1987,1,false,Janyx,Turku
+38,2008,1,true,Dazzlesphere,Yelan’-Kolenovskiy
+39,2008,1,false,Meejo,Ixopo
+40,1998,1,false,Tagcat,Postoloprty
+41,1998,1,false,Edgeblab,Turnišče
+42,2009,,true,Oozz,Yunxi
+43,2004,0,false,Viva,Cristóbal
+44,1997,1,false,Voonder,Sancha
+45,2003,0,false,Zoovu,Beigao
+46,1969,1,false,Oyonder,Shazhouba
+47,2008,1,true,Quaxo,Izra‘
+48,1995,1,false,Photofeed,Vicuña
+49,1959,1,false,Ozu,Tinghir
+50,1987,,true,Skiba,Plast
+51,2011,0,false,Trudeo,Tolstoy-Yurt
+52,2006,1,true,Divanoodle,Mishkino
+53,1996,1,true,Demimbu,Anyang
+54,1997,0,false,Blogtag,Néa Pélla
+55,2004,1,true,Brainbox,Takahashi
+56,2004,0,true,Twimm,Wakema
+57,2003,0,true,Gigazoom,Yangsa
+58,1988,0,true,Geba,Frederico Westphalen
+59,2012,0,false,Twitternation,Bridgewater
+60,1992,1,true,Buzzbean,Kiarajangkung
+61,2004,1,true,Feedspan,Qarah Bāgh Bāzār
+62,2004,0,false,Digitube,Jieshou
+63,1986,1,true,Gabspot,Paris 07
+64,1992,1,false,Divavu,Huangling
+65,2012,0,true,Vinte,Pandangan Kulon
+66,2005,1,true,Aimbu,Şuraabad
+67,2000,0,true,Wikivu,Quimperlé
+68,1994,1,true,Abatz,Rybarzowice
+69,2006,0,false,Gabtune,Ell
+70,2011,0,true,Jabbersphere,Ban Phaeo
+71,1993,0,true,Voonyx,Wulong
+72,1993,0,false,Dynazzy,Nanpiao
+73,1960,0,true,Gabcube,Torres
+74,2001,0,false,Skilith,Vanadjou
+75,1962,1,false,Twitterwire,Vinhas
+76,2008,1,false,Tagpad,Boksitogorsk
+77,1992,1,false,Babbleopia,Lameira
+78,2005,0,true,Jayo,Dālbandīn
+79,2009,,true,Meedoo,La Palma
+80,1994,1,true,Jabbersphere,Bongsri
+81,2005,0,true,Eimbee,Sida
+82,2012,0,true,Wordify,La Banda
+83,1990,0,false,Jabberstorm,Sampit
+84,2012,1,false,Feedbug,Jieznas
+85,2010,1,true,Mycat,Ndano
+86,1995,0,true,Camimbo,Toufang
+87,1995,0,true,Edgepulse,Panique
+88,2010,,false,Eare,Sinop
+89,1995,,false,Photospace,Mary
+90,2010,1,true,Vipe,Tutnae
+91,2007,0,true,Photobean,Ul
+92,1999,1,true,Meevee,Pamoyanan
+93,1993,0,false,Aimbu,Jimo
+94,2009,1,false,Wikizz,Xinglong
+95,1990,1,false,Npath,Xikou
+96,1992,0,false,Topicblab,El Salitre
+97,1993,0,true,Babblestorm,Tokonou
+98,1995,1,true,Feedmix,Calomboyan
+99,2001,1,true,Jabbersphere,Sofo-Birnin-Gwari
+100,2007,0,false,Edgeclub,Wakayama-shi
+101,2011,1,true,Avamm,Tawaramoto
+102,1992,0,false,Blogtag,Mengyin
+103,1998,1,true,Tagfeed,Tamorong
+104,1991,1,true,Shufflester,Vicente Guerrero
+105,1994,0,true,Realbridge,Danirai
+106,2001,0,true,Meedoo,Veliki Preslav
+107,2000,1,false,Nlounge,Madaoua
+108,2011,,true,Skiptube,Wolbrom
+109,1995,1,false,Pixope,At-Bashi
+110,2007,0,false,Thoughtbeat,Taloy
+111,1985,0,true,Thoughtbeat,Huangtang
+112,1989,0,true,Youbridge,Oriximiná
+113,2008,0,true,Talane,Severodvinsk
+114,1992,1,false,Jaxbean,Muzambinho
+115,2007,,true,Wikivu,Sudimanik
+116,2002,0,false,Bluezoom,Astromil
+117,2005,1,true,Snaptags,Danauparis
+118,1997,0,false,Katz,Xiangang
+119,2010,1,false,Plambee,Santa Ana
+120,2009,0,false,Gabtune,Radekhiv
+121,1994,0,true,Skalith,Al Fujayrah
+122,2011,1,true,Vitz,Kabarnet
+123,1982,0,false,Zazio,Zhengdonglu
+124,2004,0,true,Voonte,Ntaur Satu
+125,2011,0,true,Babbleblab,Novyy Nekouz
+126,2012,,true,Thoughtworks,Ban Houakhoua
+127,1997,0,true,Yoveo,Las Flores
+128,1995,1,false,Vitz,Doña Remedios Trinidad
+129,2010,1,false,Tazzy,Adirejo
+130,2007,1,true,Yotz,Tucano
+131,2000,0,true,Thoughtbeat,Agios Dimitrios
+132,1994,1,false,Realcube,Kinalansan
+133,2008,0,false,Browsetype,Huifa
+134,2011,1,true,Rhyloo,Condong
+135,2002,,false,Wikizz,Angoram
+136,2005,1,true,Brainbox,Basar
+137,2008,0,false,Pixope,Di Linh
+138,1991,1,true,Wordtune,Henggang
+139,1994,1,true,Bubblemix,Saint-Grégoire
+140,1997,1,true,Demivee,Pétionville
+141,1997,1,false,Gabvine,Kota Kinabalu
+142,2001,0,false,Devpoint,Mianduhe
+143,2012,0,false,Twitterbeat,Veiga
+144,2010,1,true,Feedmix,Agen
+145,2005,,true,Ntags,Saint-Bruno
+146,2005,0,true,Shuffledrive,Haixing
+147,1995,1,false,Kwimbee,Maubara
+148,1998,1,false,Yambee,Lopez Jaena
+149,1997,0,false,Izio,La‘l
+150,1996,1,true,Topicblab,Jubaoshan
+151,2010,0,true,Zoomzone,La Tigra
+152,1948,1,true,Avavee,Kadoma
+153,1997,1,true,Demizz,Alingsås
+154,2004,1,true,Wikivu,Balbagay
+155,2010,0,false,Youbridge,Kampungbaru
+156,1992,0,false,Dynazzy,Ban Houakhoua
+157,1985,1,false,Lajo,Duczki
+158,1987,1,true,Trilia,Loma Bonita
+159,2001,0,false,Skiba,Lukou
+160,2010,1,true,Midel,Little Current
+161,2008,,false,Voolia,Jiancha
+162,1986,1,true,Eidel,Santo Niño
+163,2002,1,false,Fiveclub,Mīrpur Māthelo
+164,2002,1,true,Zava,Robertsfors
+165,2002,1,false,Kwinu,Bitin
+166,1984,0,true,Devpulse,Vila Fria
+167,2005,0,false,Devpulse,Cipinang
+168,2012,0,false,Quamba,Vetluzhskiy
+169,2005,0,false,Meembee,Tulsa
+170,1997,0,false,Mydeo,Kahrīz
+171,1996,1,true,Cogibox,Moog
+172,1993,1,true,Buzzbean,Fontenay-sous-Bois
+173,2001,0,true,Oyonder,Cofimvaba
+174,2007,0,true,Yodoo,Manning
+175,2001,1,true,Leenti,Chegdomyn
+176,1995,,false,Meevee,Shuinanxu
+177,2006,0,true,Realblab,Pedregal
+178,1993,0,false,Brainsphere,Pare
+179,1995,0,true,Camimbo,Centralniy
+180,2004,0,true,Kaymbo,Kurortnyy
+181,2006,0,false,Dabfeed,Ginebra
+182,1993,0,false,Camido,Batujaran
+183,2005,0,false,Buzzster,Troparëvo
+184,2008,0,true,Realcube,Charlesland
+185,2003,,false,Realblab,Huangbayi
+186,2002,0,false,Podcat,San Antonio Aguas Calientes
+187,1967,1,false,Quatz,Rybnoye
+188,2006,1,false,Brainlounge,Baota
+189,2008,0,false,Oyoyo,Istres
+190,1986,1,true,Gigaclub,Asbestos
+191,2009,0,false,Leexo,Nishinoomote
+192,1992,1,true,Tanoodle,Jinkou
+193,1997,,false,Brainsphere,Alavieska
+194,1994,0,false,Kwideo,Yijing
+195,2007,1,false,Eimbee,Okazaki
+196,2011,,false,Zazio,Masaling
+197,1999,,false,Babbleblab,Ptghunk’
+198,2007,1,true,Gigazoom,Tulaghi
+199,1999,1,false,Twitternation,Partizan
+200,2005,,false,Twitterbridge,Pompéia
+201,2010,1,true,Centimia,Xieshui
+202,1991,,true,Chatterpoint,Hamburg Winterhude
+203,2000,1,false,Quatz,Kimberley
+204,1967,0,false,Tagopia,Kebon
+205,1992,1,false,Mymm,São Fidélis
+206,2008,1,true,Twitternation,Kleszczewo
+207,1998,1,false,Einti,Korenëvo
+208,1995,0,false,Wordify,Caledon
+209,1985,1,false,Chatterbridge,Sa Bot
+210,1991,1,true,Thoughtbeat,Bulri
+211,2005,0,false,Fadeo,Tetovo
+212,2005,,true,Quinu,Dakoutun
+213,1997,0,true,Trudoo,Dajasongai
+214,2009,0,true,Plambee,Frutal
+215,1998,1,true,Dynava,Jefferson City
+216,2011,0,true,Thoughtbridge,Garunggang
+217,2006,0,true,Mymm,Tríkala
+218,2009,1,true,Skippad,Longtian
+219,1989,0,false,Nlounge,Figueiró dos Vinhos
+220,1993,1,true,Topicshots,Cileles
+221,2009,0,false,Skipstorm,Xinli
+222,1996,0,false,Vidoo,Puerto Quijarro
+223,1994,0,true,Thoughtsphere,Jaworzyna Śląska
+224,1990,,false,Yakidoo,Lido
+225,2003,0,true,Yabox,Longshan
+226,1995,1,false,Devcast,Huidong
+227,1998,0,true,Voonyx,Samal
+228,2007,1,false,Eare,Marang
+229,1999,1,false,Rhynoodle,Verkh-Usugli
+230,2012,0,false,Skippad,Tân Châu
+231,2006,0,true,Babbleset,Brisbane
+232,1998,1,true,Fivechat,Aryiropoúlion
+233,1993,0,true,Yodel,Zhoupu
+234,1988,0,false,Yozio,Chavusy
+235,2008,1,true,Meetz,Pandean
+236,2010,0,true,Gigaclub,Pittsburgh
+237,1994,1,true,Jazzy,Jevremovac
+238,2010,0,false,Buzzster,Mityana
+239,2005,0,false,Eamia,Karangampel
+240,1977,0,true,Leexo,Mikstat
+241,2006,1,false,Dazzlesphere,Khuzdār
+242,2002,1,false,Photobug,Maluso
+243,2008,,false,Meevee,Rabig
+244,2008,1,true,Katz,Orléans
+245,2011,1,false,Topicstorm,Ostroměř
+246,2009,1,false,Linktype,Salvacion
+247,2001,,true,Trunyx,Doumen
+248,2002,1,false,Jaxworks,Huangji
+249,2013,1,true,Skilith,Gromadka
+250,2013,1,true,Kwilith,Gaojian
+251,1991,0,false,Meedoo,Paraguaçu
+252,1991,0,true,Oyoba,Daba
+253,2005,0,false,Kwilith,Souziqiu
+254,1986,1,false,Kazio,Boca Raton
+255,2013,1,false,Wikido,Shani
+256,1994,0,false,Youspan,Carmen
+257,1999,1,false,Livetube,Monte Mor
+258,2009,1,false,Yodel,Chixi
+259,1993,0,true,Izio,Apaga
+260,2011,0,true,Photobean,Jinlong
+261,1995,1,false,Thoughtmix,Pinsk
+262,1988,,true,Aivee,San Bernardino
+263,1997,0,true,Dabvine,Jiangyin
+264,1997,0,true,Skyvu,Isojoki
+265,1995,1,true,Dablist,Kuče
+266,2011,1,false,Blogpad,Bystřany
+267,2007,1,true,Youspan,Huangcun
+268,1984,1,false,Meemm,Uppsala
+269,1993,1,false,Photobean,Sarulla
+270,1991,0,true,Edgepulse,Lelydorp
+271,2004,0,false,Skyvu,A dos Negros
+272,2009,0,false,Kwideo,Orangeville
+273,2011,0,false,Realpoint,Xiaoyangqi
+274,1995,1,false,Voomm,San Antonio
+275,2010,0,true,Ooba,Flagstaff
+276,2012,0,false,Fanoodle,Międzybrodzie Bialskie
+277,2011,1,false,Roodel,Tortosendo
+278,1995,1,true,Jazzy,Danville
+279,1989,1,false,Zoomcast,Oliveiras
+280,1993,0,true,Npath,Zaragoza
+281,1998,,true,Brainlounge,Žamberk
+282,1993,0,true,Zoonoodle,Legrada
+283,2005,1,false,Kwideo,Wenfeng Zhen
+284,2006,0,false,Devcast,Kocēni
+285,2008,1,false,Oyope,Malimaneek
+286,2004,0,false,Buzzster,Olmos
+287,2004,1,true,Jabbersphere,Calibutbut
+288,2005,1,false,Flashdog,Matelândia
+289,1997,0,true,Dabjam,Jubb Ramlah
+290,2007,0,true,JumpXS,Maggotty
+291,2009,,true,Podcat,Pentre
+292,1999,1,true,Centizu,Butigui
+293,1994,1,true,Dynava,Mosul
+294,2009,0,true,Dabshots,Bromma
+295,2012,1,false,Lajo,Phanna Nikhom
+296,2002,0,true,Zava,Ciklapa
+297,1998,1,false,Wikibox,Laiyuan
+298,1995,1,true,Katz,Bílovec
+299,2008,1,false,Digitube,Tatsuno
+300,1992,1,false,Kaymbo,Kassiri
+301,2005,0,false,Quinu,Tajumulco
+302,2006,1,false,Zoomlounge,Charlotte Amalie
+303,2007,0,true,Buzzshare,Porto Formoso
+304,2001,1,true,Wordware,Bollène
+305,2004,0,false,Yabox,Candating
+306,2006,0,false,Camimbo,Majia
+307,2008,0,false,Lazzy,Viekšniai
+308,2009,1,true,Bluejam,Kolodenka
+309,1995,0,true,Zoonoodle,Xingdian
+310,1995,0,false,Jaxbean,Gunungkendeng
+311,2005,0,false,Meedoo,Xianxiang
+312,1989,0,true,Centimia,Chokwé
+313,1995,0,true,Edgeify,Pyin Oo Lwin
+314,1957,0,true,Chatterpoint,Tarouca
+315,2011,0,true,Topiclounge,Conel
+316,1987,1,false,Tagcat,San Esteban
+317,2001,0,true,Browsedrive,Sukakerta
+318,1984,,false,Trudoo,Sharan
+319,1990,1,false,Fliptune,Xinminxiang
+320,2005,0,true,Pixoboo,Mingyu
+321,2000,1,true,Dabjam,Diavatá
+322,1994,1,true,Vimbo,Montemor-o-Velho
+323,2001,1,false,Avaveo,Guinticgan
+324,2009,0,true,Twitterworks,Sahavato
+325,2003,1,true,Jabberbean,Vysokovsk
+326,2009,1,true,Ntags,Xiaping
+327,2001,,false,Oyonder,Kanugrahan
+328,2008,1,false,Blogtags,Velké Karlovice
+329,1993,1,true,Eire,Loa Janan
+330,1989,0,true,Zoomlounge,Níkiti
+331,1993,1,false,Wikibox,Kyrenia
+332,2001,1,false,Trudeo,Benjamín Aceval
+333,2011,,false,Aivee,Neuilly-sur-Seine
+334,1994,0,true,Oyoyo,Saint-Jérôme
+335,1992,1,false,Skyble,Puunage
+336,2007,1,true,Oloo,Kacangan Lor
+337,2005,0,false,Babbleblab,Danzi
+338,1989,1,false,Twinte,Bulualto
+339,1990,0,false,Wikido,Sydney
+340,1995,0,false,Skaboo,Teculután
+341,2007,1,false,Camimbo,Gedera
+342,2008,1,true,Meeveo,Moch
+343,2006,0,false,Talane,Zelenodolsk
+344,2002,,false,Edgepulse,Saraqinishtë
+345,2007,,true,Ntag,Thạnh Hóa
+346,1992,1,true,Roodel,Xiguantun Muguzu Manzuxiang
+347,2011,,false,Mynte,Zamoskvorech’ye
+348,1997,0,false,Kwilith,Atães
+349,2011,0,true,Jabbersphere,Pirassununga
+350,2004,,true,Twitterwire,Uruzgān
+351,2012,1,true,Jabbersphere,Dadaha
+352,2003,1,false,Voonder,Velikooktyabr’skiy
+353,2004,1,false,Brainlounge,Caromatan
+354,2002,1,false,Edgeify,Weepanapi
+355,1984,0,false,Livefish,Adirejo
+356,2004,0,false,Talane,Château-Richer
+357,1992,0,true,Oyoba,Al Maḩallah al Kubrá
+358,2004,1,true,Trudeo,Siilinjärvi
+359,1997,0,false,Roomm,Kafr Takhārīm
+360,2005,,false,Dabjam,Oakland
+361,2006,0,false,Voonte,Dūkštas
+362,1992,1,true,Skivee,Machang
+363,2011,1,true,Skinder,Gonzalo Pizarro
+364,1998,1,false,Oyoloo,Mundolsheim
+365,2009,1,true,Twimbo,Sumurgayam
+366,2004,0,true,Gigazoom,Suicheng
+367,1994,0,false,Voonder,Mbaïki
+368,1996,0,true,Aimbo,Horka nad Moravou
+369,2003,0,true,Skinte,Nanjie
+370,2011,0,true,Flashdog,Cerava
+371,1987,1,true,Topiczoom,Getulio
+372,1997,1,false,Fivespan,Wutong
+373,2000,0,true,Fivebridge,Petrovskiy
+374,2005,0,false,Ainyx,Ladan
+375,1965,,false,Yodo,Mniszków
+376,1992,0,true,Devpulse,Padasuka
+377,1984,1,true,Jabbercube,Saint David’s
+378,1990,1,false,Livetube,Al Matūn
+379,2002,1,true,Topicblab,Västerås
+380,1995,0,false,Voonte,Chashnikovo
+381,1993,,true,Youspan,Filimonovo
+382,2011,0,false,Rhyloo,Komprachcice
+383,2008,0,false,Meeveo,As Salţ
+384,2005,0,true,Shufflebeat,Longzhou
+385,1992,1,false,Yodoo,Valencia
+386,1972,1,true,Flipopia,Santa Cruz do Capibaribe
+387,2000,0,true,Yacero,Progreso
+388,1991,0,true,Avaveo,Salerno
+389,1988,0,true,Quire,Dazhigu
+390,2006,0,false,Realfire,San Isidro
+391,1995,1,false,Tagchat,Seputih
+392,1967,0,true,Kwinu,Flores da Cunha
+393,1987,0,true,Oyoloo,Medellín
+394,2010,0,true,Babblestorm,Ganxi
+395,2012,1,false,Riffwire,Pulau Pinang
+396,2004,0,true,Quinu,Margoyoso
+397,1992,0,true,Eimbee,Lexington
+398,1986,1,true,Realblab,Qiantang
+399,2011,0,false,Zazio,Tonggoh
+400,2004,1,true,Mydeo,Dongqiao
+401,2003,1,false,Voolia,Vitoria-Gasteiz
+402,2008,0,true,Edgeblab,Cimanggu
+403,2003,,true,Twitterbeat,Sekongkang Bawah
+404,2010,0,false,Oba,Kure
+405,2011,0,true,Agivu,Olkusz
+406,1994,0,false,Talane,Tabira
+407,2001,1,true,Yodoo,Gunjur
+408,2007,1,true,Skynoodle,Gustavsberg
+409,1993,0,false,Blogtag,As Sālimīyah
+410,2006,1,false,Zoomzone,Quận Tân Phú
+411,2002,1,false,Skyble,Pelabuhanratu
+412,2010,1,false,Voolith,Montréal-Ouest
+413,2009,1,false,Chatterpoint,Sardasht
+414,1997,0,false,JumpXS,Molde
+415,1987,1,false,Katz,Novaya Tavolzhanka
+416,2008,0,false,Devbug,Suvorov
+417,2003,0,false,Skinix,Askiz
+418,2006,,true,Voonyx,Kamphaeng Phet
+419,2003,,true,Dabvine,Scholkine
+420,2009,1,true,Tagcat,Svobody
+421,2008,0,true,Minyx,Aykol
+422,2004,0,true,Meevee,Lewolang
+423,2002,1,true,Vinte,Cileunyi
+424,1999,0,false,Realpoint,Acul du Nord
+425,1994,0,false,Jabbertype,Chambly
+426,2006,1,true,Voonder,Manjing
+427,2006,0,false,Thoughtbridge,Liutao
+428,1995,0,true,Quatz,Muhur
+429,2009,0,false,Riffpedia,Donja Dubica
+430,2004,1,false,Rhyzio,Gumalang
+431,2006,0,false,Oyoba,Citasuk
+432,2004,1,false,Yakidoo,Riosucio
+433,2004,1,false,Digitube,Yuanjue
+434,1993,0,true,Eadel,Runting
+435,1971,1,false,Rhycero,Solna
+436,2003,0,false,Browsezoom,Bunobogu
+437,2008,1,false,Devcast,Fonte do Feto
+438,1998,1,true,Ntag,Lamas
+439,2007,,false,Kazu,Zhoutie
+440,2006,,false,Avaveo,Botucatu
+441,1993,,false,Yamia,Hernández
+442,2009,1,true,Cogidoo,Hushi
+443,2000,0,false,Tagpad,Pyay
+444,2011,0,false,Muxo,Tanabe
+445,2007,1,true,Reallinks,Santo Amaro
+446,2001,1,true,Viva,‘Eilabun
+447,1984,1,false,Devpulse,Mokolo
+448,2009,0,true,Devbug,Dasha
+449,1997,1,true,Oyoba,Xianxi
+450,2004,0,false,Riffpedia,Mojoagung
+451,2012,,false,Browseblab,Tangalla
+452,1995,1,true,Avavee,Huurch
+453,2003,1,true,Trilia,Psary
+454,2007,1,false,Babbleopia,Youzha
+455,1985,0,false,Jaxspan,Kanoni
+456,1994,0,true,Tagchat,Taoyuan
+457,1997,1,false,Zoonoodle,Jiandou
+458,1996,0,false,Linktype,Meicheng
+459,1989,1,true,BlogXS,Sumberan
+460,2012,1,false,Zooveo,Acomayo
+461,1992,0,false,Mycat,Tetovo
+462,2006,0,true,Yadel,Frydrychowice
+463,2006,1,true,Geba,Charopó
+464,2010,1,true,Thoughtmix,Victoria
+465,2009,0,false,Jazzy,Hesi
+466,2009,1,false,Cogilith,Sidi Smaïl
+467,2002,1,true,Jabbersphere,Toledo
+468,1987,0,false,Skynoodle,‘Aşīrah al Qiblīyah
+469,2008,0,true,Roomm,Caucagüito
+470,2007,0,true,Babbleopia,Julun
+471,1989,,false,Trudoo,Boldumsaz
+472,2009,0,false,Meeveo,Talcahuano
+473,1998,0,false,Yotz,Jarash
+474,2005,1,false,Tambee,Kamo
+475,2005,0,true,Twitterwire,Liulin
+476,1994,1,false,Plajo,Sutton
+477,1993,,false,Snaptags,Palue
+478,2005,1,false,Jatri,Chiang Khan
+479,1986,0,false,Nlounge,Maduao
+480,2000,0,false,Skipfire,Petaling Jaya
+481,2002,0,true,Skinix,Ronda
+482,2012,1,false,Quimm,Ngondokandawu
+483,1989,0,false,Eamia,Křižanov
+484,2008,0,true,Mymm,Ramon Magsaysay
+485,2007,0,false,Eayo,Pantaibesar
+486,1997,0,false,Dynabox,Jiangbei
+487,2005,1,true,Tagfeed,Getahovit
+488,2011,0,false,Abata,Batatais
+489,1996,0,false,Katz,Smederevska Palanka
+490,2002,0,false,Twitterbeat,Till
+491,2011,0,true,Bubblemix,Jelsa
+492,1992,1,false,Yozio,Prozor
+493,2007,0,false,Thoughtbeat,Katy
+494,2005,1,false,Voonte,Uppsala
+495,1986,0,true,JumpXS,Qixing
+496,2003,1,true,Realbuzz,Lisala
+497,1992,,true,Jamia,Ventanas
+498,2012,0,true,Plambee,Ituiutaba
+499,2001,1,true,Jaloo,Huanghe
+500,1992,1,false,Tagtune,Chancay
+501,1984,1,true,Abatz,Korets’
+502,2011,1,false,Jatri,Jinglongqiao
+503,1996,0,true,Zooveo,Ángeles
+504,2010,1,true,Browsecat,Zalţan
+505,1993,1,true,Yambee,Deauville
+506,1992,0,true,Topicstorm,Pujiang
+507,2013,,false,Bluejam,Longxian Chengguanzhen
+508,2012,0,false,Twitterworks,Gebang
+509,1966,0,false,Eabox,Kipit
+510,2004,1,true,Meejo,Södertälje
+511,1996,0,false,Voomm,Luwingu
+512,2004,0,false,Twimm,Ad Darbāsīyah
+513,2002,1,false,Avamba,Vannes
+514,1994,,false,Yodoo,Salimbalan
+515,1995,0,false,Yotz,Brignoles
+516,2000,0,false,Jabberstorm,Thung Khru
+517,2012,,true,Skibox,Montpellier
+518,2002,0,false,Riffpath,Krzyżanów
+519,1999,0,false,Mudo,Palmira
+520,2012,0,false,Blogtags,Pingya
+521,1999,1,true,Oozz,Sanshilipu
+522,2008,1,false,Wordware,Vilarinho das Cambas
+523,1994,0,true,Cogidoo,Playas
+524,1995,1,true,Tagopia,Usarin
+525,1997,1,false,Livetube,Jiuheyuan
+526,2003,0,true,Innojam,Vom
+527,2000,1,false,Livefish,Yläne
+528,2001,0,false,Divape,Terbangan
+529,2008,0,false,Voonder,Artemivs’k
+530,2009,1,false,Skipstorm,Shamanka
+531,1999,1,true,Jaxnation,Denton
+532,2002,0,true,Wordpedia,Randusari
+533,1997,1,true,Wordware,Juhut
+534,1995,1,true,Feedmix,Cerro
+535,2002,0,true,Bluejam,Nepomuceno
+536,2004,1,true,Quimba,Nanganumba
+537,1997,1,true,Skyvu,Gumalang
+538,1994,1,false,Voomm,Qiawan
+539,1995,1,true,Muxo,Jembatandua
+540,1986,0,true,Voonte,Vacha
+541,2004,0,true,Youspan,Puerto Bello
+542,1996,0,true,Kazio,Manhumirim
+543,2011,0,true,Flipbug,Manis Mekarwangi
+544,1997,1,false,Tanoodle,Belsk Duży
+545,1991,0,true,Thoughtbridge,Motala
+546,1998,0,false,Demimbu,Caldas Novas
+547,1997,1,true,Twiyo,Tayasan
+548,1994,1,false,Mycat,Daji
+549,1997,1,true,Eayo,Pagersari
+550,1990,,true,Realcube,Dolsk
+551,2006,0,true,Agimba,Cherëmushki
+552,2004,1,true,Yombu,Culubasa
+553,2004,0,false,Edgepulse,Brodósqui
+554,1995,1,false,Devpulse,Memaliaj
+555,1992,1,true,Skidoo,Cabano
+556,2003,0,false,Devpoint,Al Khirāb
+557,1998,0,true,Devbug,Jelah
+558,2011,1,true,Geba,Dachang
+559,2008,0,false,Tagtune,Silihe
+560,2008,1,false,Kanoodle,Victoria
+561,2012,0,true,Divavu,Alcaldedíaz
+562,2010,1,false,Jaxworks,Szynwałd
+563,1996,1,false,Zoovu,Sananrejo
+564,2001,0,false,Brainbox,Solkan
+565,1986,0,true,Pixonyx,Shuangxi
+566,2006,1,true,Photobean,Shuitianzhuang
+567,2004,0,false,Gabvine,Al Fākhūrah
+568,1996,1,false,Topdrive,Bronkhorstspruit
+569,2009,,true,Zoomdog,Huxi
+570,2007,0,false,Yacero,Molde
+571,1988,1,false,Photobean,Puerto Bello
+572,2010,1,false,Riffpedia,Hongchun
+573,2012,0,false,Wordify,Dayangzhou
+574,1988,1,false,Muxo,Alor Setar
+575,2009,1,true,Jetwire,Tinaquillo
+576,2009,1,false,Voonder,Marolambo
+577,2003,,false,Katz,Okrika
+578,2001,0,true,Devpulse,Foros de Salvaterra
+579,2004,0,true,Trupe,Malibago
+580,1998,1,false,Dabfeed,Salvador
+581,1998,1,true,Fivebridge,Tánh Linh
+582,2009,0,true,Skilith,Beo
+583,2012,1,false,Livepath,Pradera
+584,2001,0,true,Geba,Svilengrad
+585,2009,1,false,Feednation,Ḏânan
+586,2000,0,true,Jabberstorm,Międzyrzecz
+587,2002,0,true,Youspan,Västerås
+588,1995,1,true,Jabbercube,Donostia-San Sebastian
+589,1989,1,true,Jaloo,São Domingos
+590,2004,1,false,Vidoo,Pulupandan
+591,2008,0,false,Yabox,Shimen
+592,1989,,true,Photobug,Qiancheng
+593,1991,1,false,JumpXS,Bình Minh
+594,1989,0,false,Realbuzz,Pevek
+595,1994,0,false,Fadeo,Ilaya
+596,2011,0,false,Meemm,Fada
+597,2010,,true,Tekfly,Neepawa
+598,2008,0,false,Yacero,Nesterovskaya
+599,2011,1,false,JumpXS,Sekararum
+600,2005,0,false,Skimia,Staryy Sambor
+601,1994,0,false,Shuffletag,Villa Ascasubi
+602,2009,1,false,Avavee,Foundiougne
+603,1993,0,false,Fivebridge,Hejiabao
+604,2011,1,false,Jetpulse,Andamui
+605,1999,,true,Zoomcast,Nanggewer
+606,1986,0,true,Jatri,Butungan
+607,2003,0,false,Myworks,Jindayris
+608,1993,1,true,Flashdog,Penang
+609,1987,0,false,Mymm,Doibang
+610,2002,1,false,Gigazoom,Lymanske
+611,2003,0,false,Skilith,Maseru
+612,2004,1,false,Trudoo,Coronel Fabriciano
+613,2008,,true,Oyondu,Rafaela
+614,2000,0,true,Meedoo,Węgry
+615,1991,1,true,Jatri,Vallentuna
+616,1988,1,false,Katz,Truskolasy
+617,1965,0,true,Rhyloo,La Valette-du-Var
+618,2004,1,true,Rhyloo,Jombang
+619,1997,0,false,Twitterbeat,Shah Alam
+620,2012,1,true,Skynoodle,Yerevan
+621,2007,0,true,Skyble,Burujul
+622,1994,1,false,Twitterworks,Bandungan Timur
+623,1994,1,true,Voonyx,Shihua
+624,2012,0,true,Twitterbridge,Tianchi
+625,1995,,false,Oloo,Birmingham
+626,1986,1,false,Twinte,Xing’an
+627,1991,0,false,Livetube,Ladhewāla Warāich
+628,2000,1,true,Oyoyo,Padina
+629,2008,0,true,JumpXS,Guashe
+630,2012,1,false,Jabbertype,Palaióchora
+631,1993,0,true,Kayveo,Songea
+632,2006,0,false,Teklist,Chiguata
+633,1997,0,false,Mynte,Dłutów
+634,2005,1,true,Npath,Huating
+635,1999,0,false,Myworks,Paranaíba
+636,1993,0,true,Dynabox,Sława
+637,1998,0,false,Zoonoodle,Santiago Atitlán
+638,1992,1,true,Eidel,Malartic
+639,1996,,true,Viva,Konduga
+640,2009,1,true,Topicshots,Arteni
+641,2008,1,false,Thoughtbridge,Shishan
+642,2011,1,true,Kazu,El Paso
+643,1993,,false,Buzzdog,Dartang
+644,2001,1,false,Mycat,Matumadua
+645,1990,0,false,Voolia,Yŏnan-ŭp
+646,2009,1,false,Babbleset,Santo António
+647,1995,1,true,Jamia,Jinli
+648,2005,0,true,Tekfly,Pakuwon
+649,2001,1,false,Thoughtbeat,Fuxing
+650,1996,0,true,Abatz,Ouango
+651,1995,0,false,Twitterbeat,Yuzhno-Sukhokumsk
+652,2009,,true,Zoomlounge,Hanjiaji
+653,2007,1,false,Quire,Caba
+654,2008,1,false,Bubblebox,Enskede
+655,1993,0,false,Wikizz,Cilolohan
+656,2000,0,false,Flipstorm,Charyshskoye
+657,2012,0,false,Rooxo,Volgograd
+658,2005,1,false,Youfeed,Ţammūn
+659,2001,0,true,Babblestorm,Bureng
+660,2008,0,false,Skibox,Vila de Sal Rei
+661,2011,1,true,Voolia,Jiangcun
+662,2000,0,false,Realbridge,San Pedro Pinula
+663,2008,0,false,Quatz,Xinxu
+664,1998,0,true,Jabbercube,Yarumela
+665,2009,1,true,Jetwire,Thị Trấn Hùng Quốc
+666,1994,0,true,Avamba,Yur’yev-Pol’skiy
+667,1989,0,false,Meevee,La Palma
+668,2011,0,true,Photofeed,Qal‘eh-ye Khvājeh
+669,1993,0,true,Thoughtblab,Paiisa
+670,2011,,false,Yakitri,El Carmen
+671,1996,0,false,Gabspot,Borovany
+672,1993,1,true,Minyx,Göteborg
+673,1991,0,false,Realcube,Podolí
+674,2006,0,true,Nlounge,Péfki
+675,1998,1,false,Kanoodle,Tai’an
+676,2001,1,true,Tagtune,Toutai
+677,2010,0,false,Demizz,Khūgyāṉī
+678,2004,1,false,Yambee,Kanália
+679,1996,1,false,Quire,Villa Nueva
+680,1984,0,true,Fadeo,Vaulx-en-Velin
+681,1996,0,false,Brainsphere,Jaunpiebalga
+682,1967,0,true,Lazzy,Trinidad
+683,1992,1,false,Skaboo,Rufino
+684,1992,0,true,Riffwire,Wentugaole
+685,1996,0,true,Twitterbeat,Magdalena
+686,2007,0,true,Dabtype,Xi’an
+687,1970,0,true,Fliptune,Jiudian
+688,2009,,true,Leexo,Mesógi
+689,1995,0,true,Shuffletag,Padangulaktanding
+690,2012,0,true,Dynabox,Zürich
+691,1963,1,false,Yata,Guancangping
+692,2009,0,false,Roombo,Ambato Boeny
+693,1970,0,false,Photojam,Moriyama
+694,1988,0,true,Vinder,Brooklyn
+695,1994,,true,Feedfish,Marale
+696,1986,0,false,Mita,L'viv
+697,2000,1,true,Browseblab,Bascaron
+698,1994,0,true,Npath,Jinjiahe
+699,1994,0,false,Jetwire,Loma Bonita
+700,1992,1,false,Latz,Barreiro do Jaíba
+701,2008,1,false,Trilith,Pilcuyo
+702,2010,,true,Twinder,Kangalassy
+703,2011,,true,Flipstorm,Diónysos
+704,2012,1,false,Twitterbeat,Kitale
+705,1996,0,false,Minyx,Gävle
+706,2000,1,false,Devbug,Nanqiao
+707,2007,0,true,Yakidoo,Gijon
+708,2006,0,false,Twimm,Laliki
+709,1996,1,true,Yakijo,Guaíba
+710,2011,1,true,Skinte,Červenka
+711,1992,1,false,Jaloo,Karsin
+712,1995,1,true,Edgetag,Charlotte
+713,2010,1,false,BlogXS,Dobšice
+714,2004,0,true,Mymm,Melaka
+715,1987,0,true,Edgepulse,Huo’erqi
+716,1992,1,false,Wikivu,Tirlyanskiy
+717,1988,1,false,Fivechat,Tianhekou
+718,2007,,true,Demizz,Liufang
+719,1993,1,false,Aivee,Kefar Tavor
+720,1997,1,false,Skiba,Bulakgebang
+721,2012,,true,Tambee,Labnig
+722,1993,1,true,Trudeo,Mafeng
+723,2007,0,false,Avamba,Souto
+724,1990,0,true,Pixope,Bondoboghila
+725,1995,1,true,Einti,Alvide
+726,1995,1,false,Dabvine,Skanör
+727,1994,,true,Podcat,Orzesze
+728,2008,1,true,Dynava,Sumqayıt
+729,2007,1,false,Feedspan,Xibing
+730,2011,0,false,Skinte,Bačka Palanka
+731,1989,1,false,Trudeo,Honglai
+732,2008,0,false,LiveZ,Glempang Tengah
+733,2005,1,true,Abatz,Sypniewo
+734,2007,1,false,Feedmix,Santa Cruz
+735,2009,,true,Skivee,Zliv
+736,1994,,false,Yata,Duczki
+737,2011,0,false,Nlounge,Kemiri Daya
+738,2012,0,true,Abata,Narsingdi
+739,1986,1,true,Wordtune,Ćuprija
+740,2004,1,true,Talane,Mo I Rana
+741,2002,1,true,Camido,Krajan Dukuhseti
+742,1994,0,true,Linklinks,Jingouhe
+743,2007,1,false,Viva,Slobodka
+744,2013,0,true,Fatz,Jawand
+745,1995,0,true,Flashdog,Capâo Bonito
+746,1993,0,true,Edgetag,Khlong Khuean
+747,1991,1,true,Brainverse,Viñales
+748,1996,,false,Tagfeed,Rabah
+749,1997,1,true,Latz,San Vicente
+750,2010,0,true,Rhycero,Passos
+751,1999,0,false,Skibox,Pittsburgh
+752,1998,0,true,Mycat,Drogomyśl
+753,2004,1,true,Riffpedia,Progreso
+754,2013,1,true,Zoonoodle,Pulo
+755,2007,0,true,Blogpad,Sovetakan
+756,2002,1,true,Bubblemix,Getafe
+757,1995,0,true,Jaloo,Floirac
+758,1994,0,false,Skyndu,Nagasari
+759,2005,0,true,Voolia,Cumadcad
+760,2009,,false,Avamm,London
+761,2007,0,false,Topicstorm,Nueva Esperanza
+762,2006,0,true,Chatterpoint,Lido
+763,2004,1,true,Edgewire,Arroyo Salado
+764,1985,0,true,Tagchat,Berëzovskiy
+765,1985,1,false,Skaboo,Bianba
+766,2012,0,true,Lajo,Colinas
+767,1991,1,false,Babblestorm,San Pablo
+768,1993,1,true,Eabox,Cikijing
+769,2001,1,false,Yacero,Det Udom
+770,2005,0,true,Zoomlounge,Rokiškis
+771,2006,0,true,Zoombeat,Tlučná
+772,1997,0,false,Minyx,Klang
+773,1998,0,false,Yamia,Gopaan
+774,2009,0,true,Innotype,Huyunxiang
+775,1999,,true,Devshare,Sungai Raya
+776,2002,0,false,Eazzy,Nueva Manoa
+777,2008,0,true,Lazzy,Longping
+778,1998,0,true,Yambee,Goúrnes
+779,1986,0,false,Photofeed,Olympia
+780,1999,0,false,Eare,Sangar Sarāy
+781,1994,0,false,Aibox,Rezh
+782,1999,0,false,Latz,Xuanbao
+783,2012,0,false,Twitterlist,Dunyāpur
+784,2009,0,false,Tavu,Vallenar
+785,2002,,true,Eamia,Grujugan
+786,1988,,false,Buzzdog,Caledon
+787,1992,1,true,Buzzbean,Pastores
+788,2011,1,false,Leenti,Yavne
+789,2000,1,true,Pixoboo,Portel
+790,1987,1,false,Eadel,Shevchenkove
+791,1987,,false,Ooba,Bang Rak
+792,1986,0,false,Voonte,Stockholm
+793,2006,0,true,Fivespan,Hallstahammar
+794,2012,1,false,Thoughtstorm,Trới
+795,2004,0,false,Leenti,Al Matūn
+796,2009,1,false,Linklinks,Āwash
+797,1984,0,false,Flipbug,San Felipe Old
+798,2007,1,false,Youopia,El Mirador
+799,1989,0,false,Omba,Toshkivka
+800,2009,,false,Rhyloo,Shuiyuan
+801,2007,1,true,Vinte,Huangcun
+802,2012,1,false,Jayo,Los Nogales
+803,2011,1,true,Zoonoodle,Sémé
+804,1996,0,true,Chatterpoint,Nabire
+805,1984,0,false,Edgetag,Agen
+806,2004,,false,Mydo,Gaomi
+807,2006,0,false,Kimia,Kuala Terengganu
+808,2002,0,true,Oyoba,Detroit
+809,1992,0,false,Skynoodle,Tayabamba
+810,1989,1,true,Fadeo,Évora
+811,2005,0,true,Riffpedia,Temayang
+812,1999,1,false,Voonyx,Bloemfontein
+813,2012,1,true,Demimbu,Luba
+814,1983,1,true,Mydeo,Mount Pearl
+815,2009,0,false,InnoZ,Barcelona
+816,2009,0,true,Wikivu,Hamburg Sankt Pauli
+817,1988,0,true,Blognation,Nilanapo
+818,1988,0,true,Eire,Anguil
+819,1986,0,true,Oloo,Hechuan
+820,2007,0,false,Voonix,Koba
+821,2003,1,false,Jetpulse,Hovorany
+822,2005,1,false,Centimia,Prámanta
+823,2007,0,true,Voonix,Shilipu
+824,1994,0,false,Shufflester,Ludvika
+825,2011,1,false,Mynte,Minneapolis
+826,1992,0,false,Abata,Piduhe
+827,2009,0,false,Jabberbean,Tabuny
+828,2009,0,true,Oyoyo,Cajolá
+829,2011,1,true,Fadeo,Santiago Atitlán
+830,2003,0,false,Snaptags,Krajan
+831,2005,0,false,Jaxbean,Kakanj
+832,2004,1,false,Bubbletube,Lao Suea Kok
+833,1978,,true,Twitterlist,Chiba
+834,2007,0,false,Plambee,West Hartford
+835,2010,0,false,Twitternation,Áyioi Apóstoloi
+836,2008,0,true,Plajo,Mahendranagar
+837,2007,,true,Oyoyo,Güines
+838,1997,0,false,Youfeed,Chiguang
+839,1994,0,false,Abata,Taraban Timur
+840,2000,1,true,Riffpedia,Talakag
+841,2007,0,false,Edgepulse,Melaka
+842,2003,,true,Skimia,Alivéri
+843,2002,1,true,Jabberbean,Oravais
+844,2011,0,true,Edgepulse,Alenquer
+845,1991,1,true,Aimbu,Almargem do Bispo
+846,2004,0,false,Vipe,Alvesta
+847,2003,0,false,Midel,Muara Dua
+848,2003,0,true,Feedfire,Bagé
+849,2009,1,true,Rhybox,Marbel
+850,2001,0,false,DabZ,Batad
+851,2007,0,true,Buzzster,Ahmadpur Siāl
+852,1991,1,false,Oyope,Buenavista
+853,2005,0,true,Wordify,Mogadishu
+854,2002,,false,Aibox,Lubień
+855,1994,1,false,Quatz,Sukadami
+856,2006,1,false,Tagopia,Mikulčice
+857,1998,0,true,Wikivu,Xingfeng
+858,1995,0,false,Brightdog,Sarzedo
+859,1990,1,false,Vinte,Bungalaleng
+860,2007,1,false,Talane,Pretana
+861,2008,1,false,Aimbu,Islamey
+862,2001,,false,Twitternation,Oenunu
+863,1988,1,false,Photojam,Zabukovica
+864,2007,1,true,BlogXS,Dzerzhinskiy
+865,1998,1,false,Voomm,Umbuldamar
+866,2003,1,false,Oodoo,Piquillín
+867,1990,1,false,Layo,Ţūlkarm
+868,1995,1,false,Jabbersphere,Filótion
+869,1997,0,true,Thoughtbridge,Marsh Harbour
+870,1993,0,false,Bubbletube,Liboro
+871,2004,,false,Meemm,Åmål
+872,2000,0,false,Skinder,Seaforth
+873,1986,,true,Youspan,Horodyshche
+874,2006,0,false,Fivespan,Sanquan
+875,2009,0,true,Voonix,Renshan
+876,2002,1,true,Ntags,Kajiki
+877,1997,0,true,Demivee,Tsyelyakhany
+878,2008,1,true,Shufflester,Zhiqing Songduo
+879,2012,0,false,Ntag,Naranjal
+880,1989,1,true,Nlounge,Pataypampa
+881,2008,1,false,Ailane,Atimonan
+882,1995,0,true,Gigabox,Bueng Khong Long
+883,1989,1,false,Mynte,Kachkanar
+884,1965,1,true,Meeveo,Rájec-Jestřebí
+885,2010,0,false,Roomm,Jianggezhuang
+886,2007,1,false,Browsebug,Kurayyimah
+887,1991,0,false,Edgeblab,Sundsvall
+888,2000,0,false,Photospace,Maslog
+889,2005,0,false,Mybuzz,Jinnan
+890,2007,,false,Brainverse,Bernardo Larroudé
+891,2007,0,true,Fivebridge,Arlington
+892,2000,0,true,Blogspan,Wysoka
+893,1996,1,false,Feednation,Habo
+894,1980,0,false,Rhyloo,Ḩukūmat-e Shīnkaī
+895,1997,1,true,Gigabox,Sanjie
+896,1998,1,false,Ntags,Hefu
+897,2003,0,false,Cogibox,Cairima
+898,2010,0,true,Thoughtworks,Cotuí
+899,1989,0,false,Mita,Paris 12
+900,2005,1,false,Flashset,Elimäki
+901,2001,1,false,Brightbean,Dulovo
+902,2008,1,false,Skivee,Balucuc
+903,2003,1,true,Voonix,Sua
+904,1994,1,false,Skalith,Puerto Boyacá
+905,1995,1,true,Thoughtsphere,Sanhe
+906,2008,1,false,Skidoo,Yumaguzino
+907,2011,1,false,Skajo,Vegreville
+908,1993,1,false,Fanoodle,Huakoulongtan
+909,1998,1,true,Flipbug,Angered
+910,1996,1,true,Buzzdog,Yuqi
+911,2007,0,true,Yotz,Nantes
+912,2010,1,false,Realcube,Muzayri‘
+913,2006,,true,Chatterbridge,Pakalongan
+914,2002,0,false,Dynabox,Brudzew
+915,1996,0,true,Ozu,Sovetskiy
+916,1988,,false,Npath,Jalasenga
+917,1995,0,true,Jabbercube,Itaqui
+918,2008,0,false,Mymm,Gampang
+919,2005,1,false,Photobug,Guofu
+920,2007,0,false,Ooba,Wugong
+921,2005,1,false,Skimia,Suklayin
+922,1991,,true,Demimbu,Umeå
+923,2007,,false,Tagtune,Piduhe
+924,2009,0,true,Linklinks,Kostrovo
+925,2005,1,false,Brightdog,Erqu
+926,2005,0,true,Einti,Alquerubim
+927,2012,0,false,Realpoint,Kozelets’
+928,1994,0,false,Demivee,Wangmang
+929,2011,0,true,Fanoodle,Daxindian
+930,1986,1,false,Voonyx,Moita da Roda
+931,1993,1,true,Chatterbridge,Les Abymes
+932,1997,0,false,Linktype,Saramech
+933,1997,0,false,Eabox,Huacachi
+934,2011,1,true,Kamba,Paitan Este
+935,2006,0,true,Twitterbridge,Krajan Alasdowo
+936,1996,0,true,Centizu,Frydek
+937,1994,1,true,Thoughtworks,Zhaoxian
+938,2003,1,false,Chatterpoint,Géfyra
+939,1995,1,false,Voolith,Sa Kaeo
+940,2007,1,false,Demizz,Tangtuzhui
+941,1995,1,true,Blogspan,Malax
+942,2009,0,true,Skinix,Segoro
+943,1997,1,false,Skinix,San Vicente
+944,1992,1,true,Skippad,Tairan Camp
+945,1995,0,false,Rhycero,Mucuri
+946,2006,0,false,Centimia,Saint-Jean-de-Braye
+947,1985,0,false,Leenti,Mobile
+948,1999,1,false,Meevee,Kembang
+949,2004,,false,Twitternation,Namikupa
+950,1996,1,true,Meevee,Blyznyuky
+951,1993,1,true,Meevee,Nginjen
+952,2002,0,false,Gabspot,Khenifra
+953,1994,0,false,Demizz,Baini
+954,1994,1,false,Podcat,Pizarro
+955,2012,1,true,Yakidoo,Siennica Różana
+956,2005,0,true,Centidel,Storvreta
+957,2010,1,true,Centizu,Dajin
+958,2003,1,false,Ozu,Tulay na Lupa
+959,2011,0,false,Bubblemix,Yunxi
+960,1999,0,false,Meevee,Gimo
+961,1992,,true,Lazz,Raga
+962,2007,0,false,Skivee,Isehara
+963,2000,0,true,Cogibox,Pruchnik
+964,1993,0,false,Eire,Ojos de Agua
+965,2011,1,true,Voonix,Yelan’-Kolenovskiy
+966,2006,1,false,Gevee,Tagbilaran City
+967,1998,0,true,Viva,Xiayang
+968,2010,1,false,Wordify,Tepusteca
+969,2005,1,true,Blogtag,Coronel Vivida
+970,2003,1,true,Skyble,Xinpo
+971,1993,1,true,Zazio,Isdalstø
+972,2007,0,false,Plajo,Jipijapa
+973,2006,1,false,Blognation,Belize City
+974,2008,0,false,Thoughtmix,Landázuri
+975,1998,0,false,BlogXS,Hadakewa
+976,2005,0,false,Omba,Llauta
+977,1996,0,true,Demizz,San Jose
+978,2004,0,true,Twitterworks,Bayanan
+979,2010,1,true,Jabberstorm,Zebrzydowice
+980,2008,0,false,Demimbu,Bridel
+981,2010,,true,Zava,Ramón Castilla
+982,2002,1,true,Youtags,Dzhankoy
+983,1996,1,true,Avamba,Jacaltenango
+984,2011,,true,Kwideo,Washington
+985,1998,0,false,Kazio,Gangsha
+986,1999,0,true,Yodoo,Karangturi
+987,1993,0,false,Edgetag,Hato Mayor del Rey
+988,1996,1,true,Quatz,Mugumu
+989,1987,1,true,Latz,Cubará
+990,2009,0,false,Edgeclub,Toumodi
+991,1976,0,false,Brightdog,Drumcondra
+992,1969,0,true,Zoomzone,Apaga
+993,1993,1,false,Jabberbean,Suncun
+994,2005,1,true,Yadel,Fengchan
+995,2009,0,false,Tazz,São João do Campo
+996,1998,0,true,Nlounge,Paris 12
+997,1999,1,false,Kayveo,Andir
+998,1984,0,true,Bluejam,Anjozorobe
+999,1995,0,true,JumpXS,Česká Skalice
+1000,1992,0,false,Edgetag,Marseille
