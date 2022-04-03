@@ -10,3 +10,5 @@ The objective is:
 -The login data is stored as variables.  
 
 License: CC0
+
+For detailed documentation see file `Blueprint Azure.md`.
