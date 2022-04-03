@@ -5,6 +5,7 @@ This document shows an example of how the cloud storage Azure Blob Storage can b
 
 | Detail | Value |
 | ------------------------------------ | ------------------------------------------------------------ |
+| YouTube Playlist | [here (german)](https://www.youtube.com/playlist?list=PL0GdkoH5F88KqbSBZjWx4zjj2qO85rbwC) |
 | Eclipse version used | Eclipse IDE for Java Developers 2021-12 (4.22.0) |
 | JRE | JavaSE-17 |
 | Created in | Beginning 2022 |
@@ -24,7 +25,7 @@ Registration can be done via https://azure.microsoft.com/free/ . No special sett
 
 The console is accessed from https://portal.azure.com/. From the start page, select the Storage Accounts function and create a new account:
 
-![](documentation_screenshots\Picture1.png)
+![](documentation_screenshots/Picture1.png)
 
 First, select a *subscription* and resource *group*. A storage account is a resource manager resource. Therefore, the storage account must be associated with an Azure resource group. Resource groups are used to group Azure services. When creating the storage account, *resource groups* can also be recreated.
 
@@ -36,19 +37,19 @@ The desired region is then selected. This should be as close as possible to them
 
 Finally, a *Redundancy level* redundancy is selected. The following options are possible:
 
-![](documentation_screenshots\Picture2.png)
+![](documentation_screenshots/Picture2.png)
 
 The other settings do not need to be changed for the test purpose (for explanations of the setting options, see [Azure documentation](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-create)).
 
 Noteworthy is the area of data protection, in which versioning and change tracking can be set. This is associated with additional cost.
 
-![](documentation_screenshots\Picture3.png)
+![](documentation_screenshots/Picture3.png)
 
 After all, settings have been made, the storage account can be created via *Review + create*. This may take a few minutes.
 
 Next, a new container is created under *Containers*. Containers (also called buckets) bundle related blobs (also called objects).
 
-![](documentation_screenshots\Picture4.png)
+![](documentation_screenshots/Picture4.png)
 
 A name, which consists of lowercase letters and numbers, is defined. The *public access level* should be set to Private.
 
@@ -66,7 +67,7 @@ There are two options for accessing the *storage account.* On the one hand, an *
 
 For this purpose, a new shared access signature is created in the storage account:
 
-![1.5](documentation_screenshots\Picture5.png)
+![1.5](documentation_screenshots/Picture5.png)
 
 With *Allowed services*, it is sufficient if the only blob is selected. Allowed resource *types* select Object. The *Allowed permissions*, *Blob versioning permissions,* and *Allowed blob index permissions* must be selected according to the intended purpose. As well as the other settings.
 
@@ -154,8 +155,8 @@ If the initialization shown earlier has been performed, the download can be trig
 
 ## 3. Further information
 
-●Code Examples: https://docs.microsoft.com/en-us/azure/storage/common/storage-samples-java?toc=/azure/storage/blobs/toc.json#blob-samples
-●API Documentation: https://docs.microsoft.com/en-us/java/api/overview/azure/storage-blob-readme?view=azure-java-stable
-●Official GitHub repo: https://github.com/Azure/azure-sdk-for-java/tree/main/sdk/storage/azure-storage-blob
-●Maven Repo: https://mvnrepository.com/artifact/com.azure/azure-storage-blob
-●YouTube Channel: https://www.youtube.com/c/MicrosoftDeveloper/playlists
+●Code Examples: https://docs.microsoft.com/en-us/azure/storage/common/storage-samples-java?toc=/azure/storage/blobs/toc.json#blob-samples  
+●API Documentation: https://docs.microsoft.com/en-us/java/api/overview/azure/storage-blob-readme?view=azure-java-stable  
+●Official GitHub repo: https://github.com/Azure/azure-sdk-for-java/tree/main/sdk/storage/azure-storage-blob  
+●Maven Repo: https://mvnrepository.com/artifact/com.azure/azure-storage-blob  
+●YouTube Channel: https://www.youtube.com/c/MicrosoftDeveloper/playlists  
